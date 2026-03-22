@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Phúc
 
-<!--
-**trongphucvn/trongphucvn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Developer  
+🚀 Learning: AI, Bot, Automation  
+⚡ Interested in: Linux, VPS, Docker  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills
+- Python 🐍
+- Bash ⚙️
+- Git & GitHub
+
+---
+
+## 📌 Projects
+- 🔹 Win11 (Test Windows on VPS)
+- 🔹 Bot automation (đang phát triển)
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=trongphucvn&show_icons=true&theme=dark)
